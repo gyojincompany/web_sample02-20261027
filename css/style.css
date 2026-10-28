@@ -429,6 +429,11 @@ footer p {
     color: #075b9b;
 }
 
+/* 글쓰기 폼 디자인 */
+.form-content {
+    max-width: 850px;
+    border: 1px solid red;
+}
 
 
 /* 모바일 화면에서 보기 좋게 배치(700미만 화면) */
